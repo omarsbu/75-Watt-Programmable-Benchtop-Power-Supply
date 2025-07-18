@@ -12,6 +12,6 @@ In progress...
 
 <img width="3645" height="1397" alt="image" src="https://github.com/user-attachments/assets/a4462aa1-fd7b-45b0-8164-eeeb7aca9c61" />
 
-**Current limit control loop response to step load short circuit**
+**Current limit control loop response to step load short circuit. Need to eliminate overshoot**
 
 <img width="3840" height="2060" alt="image" src="https://github.com/user-attachments/assets/0b571783-5570-420a-bb9e-58ee74fbfdeb" />
