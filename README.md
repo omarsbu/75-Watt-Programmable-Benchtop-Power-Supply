@@ -15,3 +15,6 @@ In progress...
 **Current limit control loop response to step load short circuit. Need to eliminate overshoot**
 
 <img width="3840" height="2060" alt="image" src="https://github.com/user-attachments/assets/0b571783-5570-420a-bb9e-58ee74fbfdeb" />
+
+<img width="2460" height="920" alt="image" src="https://github.com/user-attachments/assets/fa08782e-7c72-4c77-8a79-8ae12ce39f4d" />
+<img width="2282" height="1067" alt="image" src="https://github.com/user-attachments/assets/1f6e35ac-a3cb-4231-9ee2-a8edee2b3830" />
