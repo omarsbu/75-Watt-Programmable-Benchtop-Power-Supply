@@ -3,6 +3,7 @@ In progress...
   => Finish Fusion 360 schematic & PCB layout
   
   => Finish Microcontroller Software
+<img width="3675" height="1980" alt="image" src="https://github.com/user-attachments/assets/e85a1456-5eb3-42fe-8d7b-8a852d44e0eb" />
 
 ![image](https://github.com/user-attachments/assets/1df951df-6f95-4112-9236-b1f3dc087e41)
 
